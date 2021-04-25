@@ -1,1 +1,1 @@
-conda install -c conda-forge
+conda-forge
