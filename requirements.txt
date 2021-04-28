@@ -1,4 +1,4 @@
-opencv_python==4.0.0.21
+opencv-python-headless
 scipy==1.5.0
 imutils==0.5.4
 streamlit==0.80.0
